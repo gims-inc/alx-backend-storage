@@ -28,4 +28,8 @@
 
 - [Mongo Shell Meethods](https://www.mongodb.com/docs/manual/reference/method/)
 
-- []()
+- [Aggregation](https://www.mongodb.com/docs/manual/aggregation/)
+
+- [Collection](https://pymongo.readthedocs.io/en/stable/api/pymongo/collection.html)
+
+- [Operators](https://kinsta.com/blog/mongodb-operators/)
