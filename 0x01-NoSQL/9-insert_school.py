@@ -7,7 +7,8 @@ import pymongo
 
 def insert_school(mongo_collection, **kwargs):
     """perform an insert in nosqldb
+
     returns: _id
     """
     res = mongo_collection.insert_one(kwargs)
-    return res
+    return res.inserted_id
